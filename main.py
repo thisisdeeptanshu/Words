@@ -1,4 +1,4 @@
-# I wonder if Guido van Rossum ever thought of the consequences of creating a language that is so easy to learn.
+# I wonder if the developers of python ever think of the consequences of creating a language that is so easy to learn.
 
 import threading
 import random
